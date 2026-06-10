@@ -9,3 +9,4 @@ UE5多人末日生存射击Demo 可运行版本
 2. 实现服务器权威+客户端预测的多人同步方案，解决射击游戏经典同步问题
 3. 采用State Tree实现高效僵尸AI，支持同屏50+僵尸稳定运行
 4. 利用PCG实现程序化内容生成，大幅提升地图开发效率
+<img width="2543" height="1117" alt="image" src="https://github.com/user-attachments/assets/90b37dd5-985a-4f9b-875a-0d2da41a98ff" />
